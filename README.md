@@ -6,6 +6,6 @@
 
 Azure Cloud Developer Journey has been amazing here are the topics i have worked on : 
 
-   1 . Azure Virtual Machines - Configuring and deploying a virtaul machine \n
-                                Building and Deploying Windows Virtual Machine
-                                Building and Deploying Linux Virtual Machine
+   1 . Azure Virtual Machines - Configuring and deploying a virtaul machine.
+                                Building and Deploying Windows Virtual Machine. 
+                                Building and Deploying Linux Virtual Machine. 
