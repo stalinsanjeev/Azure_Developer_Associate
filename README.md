@@ -9,6 +9,6 @@ Azure Cloud Developer Journey has been amazing here are the topics i have worked
    ### Azure Virtual Machines 
    * Configuring and deploying a virtaul machine <br>
    * Building and Deploying Windows Virtual Machine ( RDP ) <br>
-   * Building and Deploying Linux Virtual Machine ( SSH ). 
+   * Building and Deploying Linux Virtual Machine ( SSH )
    
    
