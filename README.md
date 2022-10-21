@@ -44,7 +44,19 @@ Azure Cloud Developer Journey has been amazing here are the topics I have worked
    * Creating Azure Cosmos DB Account <br>
    * Creating a container and a Database in Azure Cosmos DB <br>
    * Adding, Reading, Replacing, Deleting items <br>
-   * Cosmos DB - Stored Procedure, Trigger and using Table API.
+   * Cosmos DB - Stored Procedure, Trigger and using Table API
+
+ ### Azure Security
+   * Azure Active Directory - Role Based Access Control <br>
+   * Application Object, Microsoft Graph, Graph API <br>
+   * Azure Key Vault - Encrytpion Keys, Secrets <br>
+   * Azure Managed Identities - Getting and Using managed Identities <br>
+   * User Assigned Identities
+
+ ### Authentication and Authorization
+   * Using OAuth2 to sign-in into azure <br>
+   * Group claims and access tockens <br>
+   * Creating a Web API, publishing it, protecting it and calling the API from POSTMAN tool and console application 
 
 
   
