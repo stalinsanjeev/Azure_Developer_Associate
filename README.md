@@ -34,6 +34,12 @@ Azure Cloud Developer Journey has been amazing here are the topics I have worked
    * Azure CLI <br>
    * ARM templates
 
+ ### Azure Storage Accounts
+   * Creating a Storage Account <br>
+   * Shared Access Signatures <br>
+   * Creating , uploading, Downloading, Accessing, listing a blob <br>
+   * Azure Table Storage Adding, Reading, Deleting an Entity
+
 
   
    
