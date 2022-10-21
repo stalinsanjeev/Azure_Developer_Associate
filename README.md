@@ -6,7 +6,7 @@
 
 Azure Cloud Developer Journey has been amazing here are the topics I have worked on : 
 
-   ### Azure Virtual Machines 
+ ### Azure Virtual Machines 
    * Configuring and deploying a virtaul machine <br>
    * Building and Deploying Windows Virtual Machine ( RDP ) <br>
    * Building and Deploying Linux Virtual Machine ( SSH )
@@ -29,11 +29,6 @@ Azure Cloud Developer Journey has been amazing here are the topics I have worked
    * Deploying MySQL image, Connecting application container with MySQL container <br>
    * Azure Kubernetes, Deploying an Azure Kubernetes cluster
 
- ### Tools
-   * Powershell <br>
-   * Azure CLI <br>
-   * ARM templates
-
  ### Azure Storage Accounts
    * Creating a Storage Account <br>
    * Shared Access Signatures <br>
@@ -45,6 +40,18 @@ Azure Cloud Developer Journey has been amazing here are the topics I have worked
    * Creating a container and a Database in Azure Cosmos DB <br>
    * Adding, Reading, Replacing, Deleting items <br>
    * Cosmos DB - Stored Procedure, Trigger and using Table API
+  
+ ### Azure Storage Queue and Azure Service Bus Queue and Azure Service Bus Topic
+   * Azure Storage Queue           - Creating a Storage Queue to Add, peek and messages <br>
+   * Azure Storage Queue           - Creating a Storage to Send and Recieve objects and store in a table <br>
+   * Azure Storage Queue Function  - Creating a function that can pickup messages from queue <br>
+   * Azure Service Bus Queue       - Creating a service Bus Queue to Send peek and recieve messages <br>
+   * Azure Service Bus Queue       - Message Proccesor, Time to live, Dead letter Queue, Duplicate Message Detection  <br>
+   * Azure Service Bus Topic       - Sending and Recieving messages, filters - Correlation, Boolean, SQL  
+
+ ### Azure Event Hub and Azure Event Grid
+   * Azure Event Hub               - Creating a Azure Event Hub and sending and recieving data from it, Working with partition keys <br>
+   * Azure Event Grid              - Creating a Azure Event Grid and Processing Blobs 
 
  ### Azure Security
    * Azure Active Directory - Role Based Access Control <br>
@@ -58,26 +65,22 @@ Azure Cloud Developer Journey has been amazing here are the topics I have worked
    * Group claims and access tockens <br>
    * Creating a Web API, publishing it, protecting it and calling the API from POSTMAN tool and console application 
 
+ ### API Management
+   * Creating a API publishing and accessing it using postman tool
+   * Creating an API management policy to Cache, Rewrite, Expressions and Return Response.
+   * Using OAuth for authorization
+
  ### Monitoring, Troubleshooting and Optimizing Azure Solutions
    * Azure Monitor        - Setting up alerts, Dynamic Thresholds, Dynamic alerts, Monitor Metrics <br>
    * Application Insights - Performance Data, Usage Features, Availability tests, Tracking Users <br>
    * Azure Redis Cache <br>
    * Azure Content Delivery network
-   
- ### Azure Storage Queue and Azure Service Bus Queue and Azure Service Bus Topic
-   * Azure Storage Queue           - Creating a Storage Queue to Add, peek and messages <br>
-   * Azure Storage Queue           - Creating a Storage to Send and Recieve objects and store in a table <br>
-   * Azure Storage Queue Function  - Creating a function that can pickup messages from queue <br>
-   * Azure Service Bus Queue       - Creating a service Bus Queue to Send peek and recieve messages <br>
-   * Azure Service Bus Queue       - Message Proccesor, Time to live, Dead letter Queue, Duplicate Message Detection  <br>
-   * Azure Service Bus Topic       - Sending and Recieving messages, filters - Correlation, Boolean, SQL  <br>
+ 
+ ### Tools
+   * Powershell <br>
+   * Azure CLI <br>
+   * ARM templates
 
- ### Azure Event Hub and Azure Event Grid
-   * Azure Storage Queue           - Creating a Storage Queue to Add, peek and messages <br>
-   * Azure Storage Queue           - Creating a Storage to Send and Recieve objects and store in a table <br>
-   * Azure Storage Queue Function  - Creating a function that can pickup messages from queue <br>
-   * Azure Service Bus Queue       - Creating a service Bus Queue to Send peek and recieve messages <br>
-   * Azure Service Bus Queue       - Message Proccesor, Time to live, Dead letter Queue, Duplicate Message Detection  <br>
-   * Azure Service Bus Topic       - Sending and Recieving messages, filters - Correlation, Boolean, SQL  <br>
+  
    
    
