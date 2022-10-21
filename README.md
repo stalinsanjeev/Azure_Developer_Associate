@@ -37,8 +37,14 @@ Azure Cloud Developer Journey has been amazing here are the topics I have worked
  ### Azure Storage Accounts
    * Creating a Storage Account <br>
    * Shared Access Signatures <br>
-   * Creating , uploading, Downloading, Accessing, listing a blob <br>
+   * Creating , Uploading, Downloading, Accessing, Listing an Azure blob <br>
    * Azure Table Storage Adding, Reading, Deleting an Entity
+
+ ### Azure Cosmos DB
+   * Creating Azure Cosmos DB Account <br>
+   * Creating a container and a Database in Azure Cosmos DB <br>
+   * Adding, Reading, Replacing, Deleting items <br>
+   * Cosmos DB - Stored Procedure, Trigger and using Table API.
 
 
   
