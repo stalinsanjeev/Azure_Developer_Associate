@@ -17,5 +17,11 @@ Azure Cloud Developer Journey has been amazing here are the topics I have worked
    * Using Deployment Slots <br>
    * App Configuration settings and Feature Flags
    
+ ### Azure Functions
+   * Creating a Function App <br>
+   * Creating a HTTP triger based function connect to SQl Database and publishing it to Azure ( GET , POST ) <br>
+   * Using POSTMAN Tool <br>
+   * Calling an Azure Function from a Web App
+   
    
    
