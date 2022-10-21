@@ -22,6 +22,12 @@ Azure Cloud Developer Journey has been amazing here are the topics I have worked
    * Creating a HTTP triger based function connect to SQl Database and publishing it to Azure ( GET , POST ) <br>
    * Using POSTMAN Tool <br>
    * Calling an Azure Function from a Web App
+
+ ### Azure Container
+   * Docker , Containerizing a Application <br>
+   * Azure Container Registry, pusing an image to registry <br>
+   * Deploying MySQL image, Connecting application container with MySQL container <br>
+   * Azure Kubernetes, Deploying an Azure Kubernetes cluster
    
    
    
