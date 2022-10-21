@@ -1,0 +1,15 @@
+﻿@page
+@using System.Security.Claims
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+
+
+    <div class="text-center">
+    <h1 class="display-4">The User display name is </h1>
+        @Model.displayName
+    <h1 class="display-4">The User principal name is </h1>
+        @Model.userPrincipalName
+    </div>

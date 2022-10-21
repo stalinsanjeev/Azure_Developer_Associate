@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{EFF82B98-CB96-40D3-92F6-781EB4FDFBF9}|Default">
+  <MonoDevelop.Ide.ItemProperties.deploymentapp PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="deploymentapp/Program.cs">
+    <Files>
+      <File FileName="deploymentapp/Pages/Index.cshtml" Line="8" Column="58" />
+      <File FileName="deploymentapp/Properties/PublishProfiles/deploymentslots3 - Zip Deploy.pubxml" Line="1" Column="1" />
+      <File FileName="deploymentapp/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="deploymentapp" expanded="True">
+            <Node name="deploymentapp" expanded="True">
+              <Node name="Pages" expanded="True" />
+              <Node name="Properties" expanded="True">
+                <Node name="PublishProfiles" expanded="True" />
+              </Node>
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

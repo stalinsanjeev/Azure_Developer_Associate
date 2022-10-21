@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{79FFA6B5-92F4-4BEB-8DDA-586B84A1C45B}|Default">
+  <MonoDevelop.Ide.ItemProperties.QueueFunction PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="QueueFunction/Queue.cs">
+    <Files>
+      <File FileName="QueueFunction/local.settings.json" Line="9" Column="1" />
+      <File FileName="QueueFunction/Queue.cs" Line="14" Column="68" />
+      <File FileName="QueueFunction/Order.cs" Line="9" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="QueueFunction" expanded="True">
+            <Node name="QueueFunction" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "gJSAD5//jUzNF5BNZl9XNDlbpvdk/DmOIfPFR1K550TlR3QTHsOuJYfPIEWoD/w7xJL8PRnqhP0TxolZh+tHYQ==",
+  "success": true,
+  "projectFilePath": "/Users/b.sanjeev/Projects/Applicationobj/Applicationobj/Applicationobj.csproj",
+  "expectedPackageFiles": [
+    "/Users/b.sanjeev/.nuget/packages/azure.core/1.25.0/azure.core.1.25.0.nupkg.sha512",
+    "/Users/b.sanjeev/.nuget/packages/azure.identity/1.6.1/azure.identity.1.6.1.nupkg.sha512",
+    "/Users/b.sanjeev/.nuget/packages/azure.storage.blobs/12.13.1/azure.storage.blobs.12.13.1.nupkg.sha512",
+    "/Users/b.sanjeev/.nuget/packages/azure.storage.common/12.12.0/azure.storage.common.12.12.0.nupkg.sha512",
+    "/Users/b.sanjeev/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.1/microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
+    "/Users/b.sanjeev/.nuget/packages/microsoft.identity.client/4.39.0/microsoft.identity.client.4.39.0.nupkg.sha512",
+    "/Users/b.sanjeev/.nuget/packages/microsoft.identity.client.extensions.msal/2.19.3/microsoft.identity.client.extensions.msal.2.19.3.nupkg.sha512",
+    "/Users/b.sanjeev/.nuget/packages/system.diagnostics.diagnosticsource/4.6.0/system.diagnostics.diagnosticsource.4.6.0.nupkg.sha512",
+    "/Users/b.sanjeev/.nuget/packages/system.io.hashing/6.0.0/system.io.hashing.6.0.0.nupkg.sha512",
+    "/Users/b.sanjeev/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
+    "/Users/b.sanjeev/.nuget/packages/system.memory.data/1.0.2/system.memory.data.1.0.2.nupkg.sha512",
+    "/Users/b.sanjeev/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/b.sanjeev/.nuget/packages/system.security.cryptography.protecteddata/4.7.0/system.security.cryptography.protecteddata.4.7.0.nupkg.sha512",
+    "/Users/b.sanjeev/.nuget/packages/system.text.encodings.web/4.7.2/system.text.encodings.web.4.7.2.nupkg.sha512",
+    "/Users/b.sanjeev/.nuget/packages/system.text.json/4.7.2/system.text.json.4.7.2.nupkg.sha512",
+    "/Users/b.sanjeev/.nuget/packages/system.threading.tasks.extensions/4.5.4/system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}

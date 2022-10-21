@@ -1,0 +1,4 @@
+﻿<Properties StartupConfiguration="{98B37141-473A-4902-ADCB-02D675819CCB}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ServiceBusMessageProccesor FirstBuild="True" />
+</Properties>

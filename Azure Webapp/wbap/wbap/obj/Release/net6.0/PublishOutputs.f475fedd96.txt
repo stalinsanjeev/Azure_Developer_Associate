@@ -1,0 +1,7 @@
+/Users/b.sanjeev/Downloads/wbap
+/Users/b.sanjeev/Downloads/appsettings.Development.json
+/Users/b.sanjeev/Downloads/appsettings.json
+/Users/b.sanjeev/Downloads/wbap.dll
+/Users/b.sanjeev/Downloads/wbap.deps.json
+/Users/b.sanjeev/Downloads/wbap.runtimeconfig.json
+/Users/b.sanjeev/Downloads/wbap.pdb

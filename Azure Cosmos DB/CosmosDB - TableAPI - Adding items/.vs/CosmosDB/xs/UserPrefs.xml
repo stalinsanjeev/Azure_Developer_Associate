@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{03C53D3C-866B-48AC-982A-71F31B33391E}|Default">
+  <MonoDevelop.Ide.ItemProperties.CosmosDB PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CosmosDB/Program.cs">
+    <Files>
+      <File FileName="CosmosDB/Program.cs" Line="42" Column="42" />
+      <File FileName="CosmosDB/Order.cs" Line="14" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CosmosDB" expanded="True">
+            <Node name="CosmosDB" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

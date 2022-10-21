@@ -1,0 +1,24 @@
+﻿<Properties GitUserInfo="UsingMD" StartupConfiguration="{5C5B0EF5-08F6-49FC-A7FC-D4131FC079C0}|Default">
+  <MonoDevelop.Ide.ItemProperties.BlobApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BlobApp/Program.cs">
+    <Files>
+      <File FileName="BlobApp/Program.cs" Line="22" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BlobApp" expanded="True">
+            <Node name="BlobApp" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

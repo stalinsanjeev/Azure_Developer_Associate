@@ -1,0 +1,7 @@
+/Users/b.sanjeev/Projects/wbap/wbap/obj/Release/net6.0/PubTmp/Out/wbap
+/Users/b.sanjeev/Projects/wbap/wbap/obj/Release/net6.0/PubTmp/Out/appsettings.Development.json
+/Users/b.sanjeev/Projects/wbap/wbap/obj/Release/net6.0/PubTmp/Out/appsettings.json
+/Users/b.sanjeev/Projects/wbap/wbap/obj/Release/net6.0/PubTmp/Out/wbap.dll
+/Users/b.sanjeev/Projects/wbap/wbap/obj/Release/net6.0/PubTmp/Out/wbap.deps.json
+/Users/b.sanjeev/Projects/wbap/wbap/obj/Release/net6.0/PubTmp/Out/wbap.runtimeconfig.json
+/Users/b.sanjeev/Projects/wbap/wbap/obj/Release/net6.0/PubTmp/Out/wbap.pdb

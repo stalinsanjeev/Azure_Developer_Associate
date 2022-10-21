@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{280188FC-712C-43B3-A169-080D2763D028}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.sqlfunction PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="sqlfunction/GetProduct.cs">
+    <Files>
+      <File FileName="sqlfunction/Product.cs" Line="1" Column="1" />
+      <File FileName="sqlfunction/local.settings.json" Line="1" Column="1" />
+      <File FileName="sqlfunction/GetProduct.cs" Line="46" Column="14" />
+      <File FileName="sqlfunction/AddProduct.cs" Line="45" Column="1" />
+      <File FileName="sqlfunction/host.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="sqlfunction" expanded="True">
+            <Node name="sqlfunction" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="GetProduct.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>

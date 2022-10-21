@@ -1,0 +1,7 @@
+/Users/b.sanjeev/Projects/deploymentapp/deploymentapp/obj/Release/net6.0/PubTmp/Out/deploymentapp
+/Users/b.sanjeev/Projects/deploymentapp/deploymentapp/obj/Release/net6.0/PubTmp/Out/appsettings.Development.json
+/Users/b.sanjeev/Projects/deploymentapp/deploymentapp/obj/Release/net6.0/PubTmp/Out/appsettings.json
+/Users/b.sanjeev/Projects/deploymentapp/deploymentapp/obj/Release/net6.0/PubTmp/Out/deploymentapp.dll
+/Users/b.sanjeev/Projects/deploymentapp/deploymentapp/obj/Release/net6.0/PubTmp/Out/deploymentapp.deps.json
+/Users/b.sanjeev/Projects/deploymentapp/deploymentapp/obj/Release/net6.0/PubTmp/Out/deploymentapp.runtimeconfig.json
+/Users/b.sanjeev/Projects/deploymentapp/deploymentapp/obj/Release/net6.0/PubTmp/Out/deploymentapp.pdb

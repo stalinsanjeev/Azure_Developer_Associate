@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b3f7464f-5b46-48e3-afec-0fa10e4bf069": {
+      "ProjectGuid": "b3f7464f-5b46-48e3-afec-0fa10e4bf069",
+      "DisplayName": "AuthApp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

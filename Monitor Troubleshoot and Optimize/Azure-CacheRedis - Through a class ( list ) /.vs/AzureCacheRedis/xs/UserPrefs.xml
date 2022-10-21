@@ -1,0 +1,4 @@
+﻿<Properties StartupConfiguration="{D5681641-393B-4CDF-8CD9-6383E50C796F}|Default">
+  <MonoDevelop.Ide.ItemProperties.AzureCacheRedis FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WebAPICall/1.0.0": {
+        "dependencies": {
+          "Microsoft.Identity.Client": "4.43.2"
+        },
+        "runtime": {
+          "WebAPICall.dll": {}
+        }
+      },
+      "Microsoft.Identity.Client/4.43.2": {
+        "runtime": {
+          "lib/netcoreapp2.1/Microsoft.Identity.Client.dll": {
+            "assemblyVersion": "4.43.2.0",
+            "fileVersion": "4.43.2.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WebAPICall/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Identity.Client/4.43.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-m3klctDvIKvc/KTIz3wFXhg2t3+f7/HL2cgUhL7txurkz3q9xs/TzTApXeU/GWWMB6NTSa+fgIV6mWqnKR563A==",
+      "path": "microsoft.identity.client/4.43.2",
+      "hashPath": "microsoft.identity.client.4.43.2.nupkg.sha512"
+    }
+  }
+}

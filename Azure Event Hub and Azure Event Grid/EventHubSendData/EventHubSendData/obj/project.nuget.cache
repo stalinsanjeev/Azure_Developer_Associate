@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "kFejyhEP3mtHGzfnjx34FLI+eeRO3oCPzkco5SSTKg03WFuVrmMVtinyrFT+gePm9tz1452M8yKN7WaoILMjEw==",
+  "success": true,
+  "projectFilePath": "/Users/b.sanjeev/Projects/EventHubSendData/EventHubSendData/EventHubSendData.csproj",
+  "expectedPackageFiles": [
+    "/Users/b.sanjeev/.nuget/packages/azure.core/1.25.0/azure.core.1.25.0.nupkg.sha512",
+    "/Users/b.sanjeev/.nuget/packages/azure.core.amqp/1.2.0/azure.core.amqp.1.2.0.nupkg.sha512",
+    "/Users/b.sanjeev/.nuget/packages/azure.messaging.eventhubs/5.7.2/azure.messaging.eventhubs.5.7.2.nupkg.sha512",
+    "/Users/b.sanjeev/.nuget/packages/microsoft.azure.amqp/2.5.10/microsoft.azure.amqp.2.5.10.nupkg.sha512",
+    "/Users/b.sanjeev/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.1/microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
+    "/Users/b.sanjeev/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/b.sanjeev/.nuget/packages/system.diagnostics.diagnosticsource/4.6.0/system.diagnostics.diagnosticsource.4.6.0.nupkg.sha512",
+    "/Users/b.sanjeev/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
+    "/Users/b.sanjeev/.nuget/packages/system.memory.data/1.0.2/system.memory.data.1.0.2.nupkg.sha512",
+    "/Users/b.sanjeev/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/b.sanjeev/.nuget/packages/system.reflection.typeextensions/4.7.0/system.reflection.typeextensions.4.7.0.nupkg.sha512",
+    "/Users/b.sanjeev/.nuget/packages/system.text.encodings.web/4.7.2/system.text.encodings.web.4.7.2.nupkg.sha512",
+    "/Users/b.sanjeev/.nuget/packages/system.text.json/4.7.2/system.text.json.4.7.2.nupkg.sha512",
+    "/Users/b.sanjeev/.nuget/packages/system.threading.channels/4.7.1/system.threading.channels.4.7.1.nupkg.sha512",
+    "/Users/b.sanjeev/.nuget/packages/system.threading.tasks.extensions/4.5.4/system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}

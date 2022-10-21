@@ -1,0 +1,17 @@
+C:\tmp1\WebAPICall\WebAPICall\bin\Debug\net6.0\WebAPICall.exe
+C:\tmp1\WebAPICall\WebAPICall\bin\Debug\net6.0\WebAPICall.deps.json
+C:\tmp1\WebAPICall\WebAPICall\bin\Debug\net6.0\WebAPICall.runtimeconfig.json
+C:\tmp1\WebAPICall\WebAPICall\bin\Debug\net6.0\WebAPICall.dll
+C:\tmp1\WebAPICall\WebAPICall\bin\Debug\net6.0\ref\WebAPICall.dll
+C:\tmp1\WebAPICall\WebAPICall\bin\Debug\net6.0\WebAPICall.pdb
+C:\tmp1\WebAPICall\WebAPICall\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\tmp1\WebAPICall\WebAPICall\obj\Debug\net6.0\WebAPICall.csproj.AssemblyReference.cache
+C:\tmp1\WebAPICall\WebAPICall\obj\Debug\net6.0\WebAPICall.GeneratedMSBuildEditorConfig.editorconfig
+C:\tmp1\WebAPICall\WebAPICall\obj\Debug\net6.0\WebAPICall.AssemblyInfoInputs.cache
+C:\tmp1\WebAPICall\WebAPICall\obj\Debug\net6.0\WebAPICall.AssemblyInfo.cs
+C:\tmp1\WebAPICall\WebAPICall\obj\Debug\net6.0\WebAPICall.csproj.CoreCompileInputs.cache
+C:\tmp1\WebAPICall\WebAPICall\obj\Debug\net6.0\WebAPICall.csproj.CopyComplete
+C:\tmp1\WebAPICall\WebAPICall\obj\Debug\net6.0\WebAPICall.dll
+C:\tmp1\WebAPICall\WebAPICall\obj\Debug\net6.0\ref\WebAPICall.dll
+C:\tmp1\WebAPICall\WebAPICall\obj\Debug\net6.0\WebAPICall.pdb
+C:\tmp1\WebAPICall\WebAPICall\obj\Debug\net6.0\WebAPICall.genruntimeconfig.cache

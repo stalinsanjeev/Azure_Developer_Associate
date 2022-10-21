@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Applicationobj</id>
+    <version>1.0.0</version>
+    <authors>Applicationobj</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="Azure.Identity" version="1.6.1" exclude="Build,Analyzers" />
+        <dependency id="Azure.Storage.Blobs" version="12.13.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/Users/b.sanjeev/Projects/Applicationobj/Applicationobj/bin/Debug/net6.0/Applicationobj.runtimeconfig.json" target="lib/net6.0/Applicationobj.runtimeconfig.json" />
+    <file src="/Users/b.sanjeev/Projects/Applicationobj/Applicationobj/bin/Debug/net6.0/Applicationobj.dll" target="lib/net6.0/Applicationobj.dll" />
+  </files>
+</package>

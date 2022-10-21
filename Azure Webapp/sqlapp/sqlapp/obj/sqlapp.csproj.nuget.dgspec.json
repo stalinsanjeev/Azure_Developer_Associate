@@ -1,0 +1,78 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/b.sanjeev/Projects/sqlapp/sqlapp/sqlapp.csproj": {}
+  },
+  "projects": {
+    "/Users/b.sanjeev/Projects/sqlapp/sqlapp/sqlapp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/b.sanjeev/Projects/sqlapp/sqlapp/sqlapp.csproj",
+        "projectName": "sqlapp",
+        "projectPath": "/Users/b.sanjeev/Projects/sqlapp/sqlapp/sqlapp.csproj",
+        "packagesPath": "/Users/b.sanjeev/.nuget/packages/",
+        "outputPath": "/Users/b.sanjeev/Projects/sqlapp/sqlapp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/b.sanjeev/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.AzureAppConfiguration": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            },
+            "Microsoft.FeatureManagement.AspNetCore": {
+              "target": "Package",
+              "version": "[2.5.1, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.30, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{04571DDD-9DED-4BFA-A3F5-8E30CF3AA8EB}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="sqlapp/Services/ProductService.cs">
+    <Files>
+      <File FileName="sqlapp/Services/ProductService.cs" Line="44" Column="1" />
+      <File FileName="sqlapp/Services/IProductService.cs" Line="10" Column="6" />
+      <File FileName="sqlapp/Program.cs" Line="23" Column="41" />
+      <File FileName="sqlapp/Pages/Index.cshtml.cs" Line="18" Column="24" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="sqlapp" expanded="True">
+            <Node name="sqlapp" expanded="True">
+              <Node name="Services" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.sqlapp PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
