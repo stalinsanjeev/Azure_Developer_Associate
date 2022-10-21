@@ -58,8 +58,26 @@ Azure Cloud Developer Journey has been amazing here are the topics I have worked
    * Group claims and access tockens <br>
    * Creating a Web API, publishing it, protecting it and calling the API from POSTMAN tool and console application 
 
-
-  
+ ### Monitoring, Troubleshooting and Optimizing Azure Solutions
+   * Azure Monitor        - Setting up alerts, Dynamic Thresholds, Dynamic alerts, Monitor Metrics <br>
+   * Application Insights - Performance Data, Usage Features, Availability tests, Tracking Users <br>
+   * Azure Redis Cache <br>
+   * Azure Content Delivery network
    
+ ### Azure Storage Queue and Azure Service Bus Queue and Azure Service Bus Topic
+   * Azure Storage Queue           - Creating a Storage Queue to Add, peek and messages <br>
+   * Azure Storage Queue           - Creating a Storage to Send and Recieve objects and store in a table <br>
+   * Azure Storage Queue Function  - Creating a function that can pickup messages from queue <br>
+   * Azure Service Bus Queue       - Creating a service Bus Queue to Send peek and recieve messages <br>
+   * Azure Service Bus Queue       - Message Proccesor, Time to live, Dead letter Queue, Duplicate Message Detection  <br>
+   * Azure Service Bus Topic       - Sending and Recieving messages, filters - Correlation, Boolean, SQL  <br>
+
+ ### Azure Event Hub and Azure Event Grid
+   * Azure Storage Queue           - Creating a Storage Queue to Add, peek and messages <br>
+   * Azure Storage Queue           - Creating a Storage to Send and Recieve objects and store in a table <br>
+   * Azure Storage Queue Function  - Creating a function that can pickup messages from queue <br>
+   * Azure Service Bus Queue       - Creating a service Bus Queue to Send peek and recieve messages <br>
+   * Azure Service Bus Queue       - Message Proccesor, Time to live, Dead letter Queue, Duplicate Message Detection  <br>
+   * Azure Service Bus Topic       - Sending and Recieving messages, filters - Correlation, Boolean, SQL  <br>
    
    
