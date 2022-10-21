@@ -41,7 +41,7 @@ Azure Cloud Developer Journey has been amazing here are the topics I have worked
    * Adding, Reading, Replacing, Deleting items <br>
    * Cosmos DB - Stored Procedure, Trigger and using Table API
   
- ### Azure Storage Queue and Azure Service Bus Queue and Azure Service Bus Topic
+ ### Azure Storage Queue, Azure Service Bus Queue and Azure Service Bus Topic
    * Azure Storage Queue           - Creating a Storage Queue to Add, peek and messages <br>
    * Azure Storage Queue           - Creating a Storage to Send and Recieve objects and store in a table <br>
    * Azure Storage Queue Function  - Creating a function that can pickup messages from queue <br>
