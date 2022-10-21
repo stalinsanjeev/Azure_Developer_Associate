@@ -28,6 +28,14 @@ Azure Cloud Developer Journey has been amazing here are the topics I have worked
    * Azure Container Registry, pusing an image to registry <br>
    * Deploying MySQL image, Connecting application container with MySQL container <br>
    * Azure Kubernetes, Deploying an Azure Kubernetes cluster
+
+ ### Tools
+   * Powershell <br>
+   * Azure CLI <br>
+   * ARM templates
+
+
+  
    
    
    
